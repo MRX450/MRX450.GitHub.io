@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MRX450.GitHub.io</id>
     <title>李忠义的GitHub</title>
-    <updated>2020-10-08T10:43:13.285Z</updated>
+    <updated>2020-10-08T10:50:52.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MRX450.GitHub.io"/>
     <link rel="self" href="https://MRX450.GitHub.io/atom.xml"/>
@@ -11,6 +11,19 @@
     <logo>https://MRX450.GitHub.io/images/avatar.png</logo>
     <icon>https://MRX450.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 李忠义的GitHub</rights>
+    <entry>
+        <title type="html"><![CDATA[                                      MRX450]]></title>
+        <id>https://MRX450.GitHub.io/post/mrx450/</id>
+        <link href="https://MRX450.GitHub.io/post/mrx450/">
+        </link>
+        <updated>2020-10-08T10:44:38.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>                                                        个人简介
+      本人为浙江省某市的中学生，男。喜欢唱，跳，rap，篮球（doge）
+       会萨克斯，以及最基础的python编辑
+      预计春节是会发布本人人生中的第一部小说《现与未，穿越》
+      感谢观看</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://MRX450.GitHub.io/post/hello-gridea/</id>
